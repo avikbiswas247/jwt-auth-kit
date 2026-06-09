@@ -1,4 +1,4 @@
-# 📦 jwt-auth-kit
+# 📦 jwt-auth-handler
 
 A lightweight, modular authentication toolkit for Node.js applications.
 
