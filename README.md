@@ -228,11 +228,3 @@ Built by a developer focused on simplifying backend authentication systems and i
 MIT
 
 ---
-
-If you want next step, I can:
-
-* help you **design the npm package name + branding (important for adoption)**
-* or show you how to **make it look “viral-ready” on GitHub (badges, README SEO, examples)**
-* or guide you on **publishing strategy so it actually gets installs**
-
-Just tell me.
